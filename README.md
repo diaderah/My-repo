@@ -1,3 +1,2 @@
 # My-repo
-This is my first repository 
-Hello World 
+This is my first repository
